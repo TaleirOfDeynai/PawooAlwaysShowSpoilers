@@ -19,6 +19,9 @@ This script makes use of some modern browser features, so may not work with olde
 Specific features used:
 * The ES6 `class` keyword
 * Static class methods
+* Rest-parameters for functions
+* Spread-syntax for array literals
+* The `for-of` loop
 * The `Set` built-in class
 * The `MutationObserver` built-in class
 * Arrow functions
