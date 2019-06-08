@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Powoo Always Show Spoilers
+// @name         Pawoo Always Show Spoilers
 // @namespace    https://github.com/TaleirOfDeynai/
 // @version      1.0
-// @description  Automatically shows spoilers on media when browsing Powoo through the web client.
+// @description  Automatically shows spoilers on media when browsing Pawoo through the web client.
 // @author       Taleir
 // @match        https://pawoo.net/*
 // @grant        none
@@ -14,7 +14,7 @@
 
     // Helper functions.
     function logError(ex) {
-        console.error(`[UserScript:Powoo Always Show Spoilers] Encountered an error; ${ex.message}`);
+        console.error(`[UserScript:Pawoo Always Show Spoilers] Encountered an error; ${ex.message}`);
         console.error(ex);
     }
 
