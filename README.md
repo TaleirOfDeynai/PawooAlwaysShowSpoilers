@@ -1,6 +1,6 @@
-# User-Script: Always Show Spoilers for Powoo
+# User-Script: Always Show Spoilers for Pawoo
 
-This is a GreaseMonkey-compatible user-script that reveals spoilers on the Powoo website automatically.  It should work with all parts of the site, both the main deck-style application and when browsing individual profiles and toots.
+This is a GreaseMonkey-compatible user-script that reveals spoilers on the Pawoo website automatically.  It should work with all parts of the site, both the main deck-style application and when browsing individual profiles and toots.
 
 Toots that were automatically revealed will have a red-tint behind them.
 
