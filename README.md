@@ -6,7 +6,7 @@ Toots that were automatically revealed will have a red-tint behind them.
 
 ## Installation
 
-Just grab `userscript.js` and load it into a GreaseMonkey compatible user-script browser extension.
+Just grab `pass.user.js` and load it into a GreaseMonkey compatible user-script browser extension.
 
 Many of these extensions can detect a user-script when viewing a JavaScript file on Github that has a GreaseMonkey header, so just viewing the raw file here may allow you to import it with a simple click of a button.
 
